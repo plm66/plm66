@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plm66
   - 👀 I’m interested in ...python, bash, nvim, css, sgg, cryptos bots self-made, the grâal
-- 🌱 I’m currently learning ... python, bash, nvim, docker, streamlit, flask
+- 🌱 I’m currently learning ... python(django), bash, nvim, docker, streamlit, tmux
 - 💞️ I’m looking to collaborate on ...nothing important
 - 📫 How to reach me ...this mail africanlinux@gmail.com
 
